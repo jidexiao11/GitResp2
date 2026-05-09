@@ -5,4 +5,5 @@ public class Student {
     private int age;
     private double score;
     private int id;
+	private int qi;
 }
